@@ -3,7 +3,6 @@
 Aspiring Data Analyst skilled in SQL, Excel, and Power BI
 Passionate about turning data into actionable insights
 
----
 
 ##  Skills
 
@@ -12,7 +11,6 @@ Passionate about turning data into actionable insights
 * Power BI (DAX, Interactive Dashboards)
 * Data Cleaning & Preprocessing
 
----
 
 ##  Featured Projects
 
@@ -37,13 +35,11 @@ Passionate about turning data into actionable insights
 * Cleaned and analyzed usage data
 * Identified peak demand patterns
 
----
 
 ## Goal
 
 To become a Data Analyst and contribute to data-driven decision making.
 
----
 
 ##  Connect with me
 
