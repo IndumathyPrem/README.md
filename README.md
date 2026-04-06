@@ -1,4 +1,3 @@
-# README.md
 # Hi, I'm Indumathy 
 
 Aspiring Data Analyst skilled in SQL, Excel, and Power BI
